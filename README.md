@@ -1,6 +1,6 @@
 # portfolio
 
-https://github.com/Nurikon4/portfolio
+https://nurikon4.github.io/portfolio/
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
